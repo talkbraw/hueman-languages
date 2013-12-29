@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2013-12-27 14:37+0100\n"
+"PO-Revision-Date: 2013-12-29 10:24+0100\n"
+"Last-Translator: Martin Vystrčil <vystrcil.martin@gmail.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Stránka na kterou přistupujete neexistuje, nebo byla přesunuta. Použíjte prosím menu nebo vyhledávač k nalezení Vámi hledaného obsahu."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Žádná odpověď"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 Odpověď"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% Odpovědí"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Komentáře"
+
+#: ../comments.php:11
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Odezvy &amp; Oznámení"
+
+#: ../footer.php:67
+msgid "All Rights Reserved."
+msgstr "Všechna práva vyhrazena"
+
+#: ../footer.php:73
+msgid "Powered by"
+msgstr "Postaveno na"
+
+#: ../footer.php:73
+msgid "Theme by"
+msgstr "Téma od"
+
+#: ../search.php:10
+msgid "For the term"
+msgstr ""
+
+#: ../search.php:12
+msgid "Please try another search:"
+msgstr "Prosím zkuste nové vyhledávání:"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Co chcete vyhledat a stiskněte enter"
+
+#: ../sidebar-2.php:5
+#: ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Otevřít postranní panel"
+
+#: ../sidebar-2.php:10
+msgid "More"
+msgstr "Více"
+
+#: ../sidebar.php:14
+msgid "Follow:"
+msgstr "Navigace:"
+
+#: ../single.php:14
+msgid "by"
+msgstr "od"
+
+#: ../single.php:23
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: ../single.php:35
+msgid "Tags:"
+msgstr "Tagy:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Nejnovější články"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Oblíbené články"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Nejnovější komentáře"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Tagy"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "řekl:"
+
+#: ../inc/page-title.php:19
+msgid "Search results"
+msgstr "Výsledky vyhledávání"
+
+#: ../inc/page-title.php:22
+msgid "Error 404."
+msgstr "Chyba 404"
+
+#: ../inc/page-title.php:22
+msgid "Page not found!"
+msgstr "Stránka nenalezena!"
+
+#: ../inc/page-title.php:26
+msgid "Author:"
+msgstr "Autor:"
+
+#: ../inc/page-title.php:29
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: ../inc/page-title.php:32
+msgid "Tagged:"
+msgstr "Označeno:"
+
+#: ../inc/page-title.php:35
+msgid "Daily Archive:"
+msgstr "Denní archiv:"
+
+#: ../inc/page-title.php:38
+msgid "Monthly Archive:"
+msgstr "Měsíční archiv:"
+
+#: ../inc/page-title.php:41
+msgid "Yearly Archive:"
+msgstr "Roční archiv:"
+
+#: ../inc/post-nav.php:3
+msgid "Next story"
+msgstr "Následující příspěvek"
+
+#: ../inc/post-nav.php:4
+msgid "Previous story"
+msgstr "Předchozí příspěvek"
+
+#: ../inc/related-posts.php:6
+msgid "You may also like..."
+msgstr "Mohlo by se vám líbit..."
+
+#: ../inc/sharrre.php:2
+msgid "Share"
+msgstr "Sdílet"
+
