@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
-"POT-Creation-Date: 2013-12-08 21:50+0100\n"
-"PO-Revision-Date: 2013-12-29 17:34+0100\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2013-12-27 14:37+0100\n"
+"PO-Revision-Date: 2013-12-30 00:19+0100\n"
+"Last-Translator: wp4flo <wordpress@schaustiehler.de>\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -19,8 +19,8 @@ msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
 msgstr ""
-"Die Seite, die Sie zu erreichen versuchen, existiert nicht oder nicht mehr. "
-"Bitte nutzen Sie die Menüs oder die Such-Box, um zu finden, was Sie suchen. "
+"Die Seite, die du zu erreichen versuchst, existiert nicht oder nicht mehr. "
+"Bitte nutze die Menüs oder die Such-Box, um zu finden, was du suchst. "
 
 #: ../comments.php:7
 msgid "No Responses"
@@ -60,11 +60,11 @@ msgstr "Für die Dauer"
 
 #: ../search.php:12
 msgid "Please try another search:"
-msgstr "Bitte versuchen Sie eine erneute Suche:"
+msgstr "Bitte versuche eine erneute Suche:"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "Zum Suchen, eintippen und Entertaste drücken"
+msgstr "Zum Suchen, eintippen und Enter drücken"
 
 #: ../sidebar-2.php:5 ../sidebar.php:9
 msgid "Expand Sidebar"
@@ -92,19 +92,23 @@ msgstr "Tags:"
 
 #: ../functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
-msgstr "Letzte Beiträge:"
+msgstr "Letzte Beiträge"
 
 #: ../functions/widgets/alx-tabs.php:28
 msgid "Popular Posts"
-msgstr "Beliebteste Beiträge:"
+msgstr "Beliebteste Beiträge"
 
 #: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
-msgstr "Letzte Kommentare:"
+msgstr "Letzte Kommentare"
 
 #: ../functions/widgets/alx-tabs.php:30
 msgid "Tags"
 msgstr "Tags"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "heißt:"
 
 #: ../inc/page-title.php:19
 msgid "Search results"
