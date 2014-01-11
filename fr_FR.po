@@ -145,7 +145,7 @@ msgstr "Archive annuelle:"
 
 #: ../inc/post-nav.php:3
 msgid "Next story"
-msgstr "Prochain article"
+msgstr "Article suivant"
 
 #: ../inc/post-nav.php:4
 msgid "Previous story"
