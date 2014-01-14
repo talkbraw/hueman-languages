@@ -1,10 +1,26 @@
 msgid ""
-"The page you trying to reach does not exist, or has been moved. Please use "
-"the menus or the search box to find what you are looking for."
 msgstr ""
-"La page que vous essayez d'atteindre n'existe pas, ou a changer "
-"d'emplacement. Utilisez s'il vous plait les menus ou le formulaire de "
-"recherche afin de trouver ce que vous cherchiez."
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2013-12-27 14:39+0100\n"
+"PO-Revision-Date: 2014-01-11 21:48+0800\n"
+"Last-Translator: Francesco Colombo <info@australiaincampervan.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
 
 #: ../comments.php:7
 msgid "No Responses"
@@ -16,7 +32,7 @@ msgstr "Una risposta"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% Risposte"
+msgstr "% risposte"
 
 #: ../comments.php:10
 msgid "Comments"
@@ -24,75 +40,79 @@ msgstr "Commenti"
 
 #: ../comments.php:11
 msgid "Trackbacks &amp; Pingbacks"
-msgstr "Rétroliens &amp; Pings"
+msgstr "Trackback &amp; Pingback"
 
-#: ../footer.php:61
+#: ../footer.php:67
 msgid "All Rights Reserved."
-msgstr "Tutti i diritti riservati"
+msgstr "Tutti i diritti riservati."
 
-#: ../footer.php:67
+#: ../footer.php:73
 msgid "Powered by"
-msgstr "Propulsé par:"
+msgstr "Realizzato con"
 
-#: ../footer.php:67
-msgid "Designed by"
-msgstr "Realizzato da:"
+#: ../footer.php:73
+msgid "Theme by"
+msgstr "Tema di"
 
-#: ../search.php:13
+#: ../search.php:10
 msgid "For the term"
-msgstr "Per il termine"
+msgstr "Per la ricerca"
 
-#: ../search.php:15
+#: ../search.php:12
 msgid "Please try another search:"
 msgstr "Prova con un'altra ricerca:"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr ""
+msgstr "Scrivi qualcosa e premi Invio"
 
-#: ../sidebar-2.php:4 ../sidebar.php:13
+#: ../sidebar-2.php:5 ../sidebar.php:9
 msgid "Expand Sidebar"
-msgstr "Espandere la Sidebar"
+msgstr "Espandi la barra laterale"
 
-#: ../sidebar-2.php:9
+#: ../sidebar-2.php:10
 msgid "More"
-msgstr "Più"
+msgstr "Altro"
 
-#: ../sidebar.php:18
+#: ../sidebar.php:14
 msgid "Follow:"
-msgstr "Servire:"
+msgstr "Seguici:"
 
-#: ../single.php:17
+#: ../single.php:14
 msgid "by"
-msgstr "da: "
+msgstr "di"
 
-#: ../single.php:26
+#: ../single.php:23
 msgid "Pages:"
-msgstr "Pagina:"
+msgstr "Pagine:"
 
-#: ../single.php:38
+#: ../single.php:34
 msgid "Tags:"
-msgstr "Tags:"
+msgstr "Etichette:"
 
-#: ../functions/widgets/alx-tabs.php:29
+#: ../functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
 msgstr "Articoli Recenti"
 
-#: ../functions/widgets/alx-tabs.php:30
+#: ../functions/widgets/alx-tabs.php:28
 msgid "Popular Posts"
 msgstr "Articoli Popolari"
 
-#: ../functions/widgets/alx-tabs.php:31
+#: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
 msgstr "Commenti Recenti"
 
-#: ../functions/widgets/alx-tabs.php:32
+#: ../functions/widgets/alx-tabs.php:30
 msgid "Tags"
-msgstr "Tags"
+msgstr "Etichette"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "dice:"
 
 #: ../inc/page-title.php:19
 msgid "Search results"
-msgstr "Risultato della ricerca"
+msgstr "Risultati di ricerca"
 
 #: ../inc/page-title.php:22
 msgid "Error 404."
@@ -112,32 +132,28 @@ msgstr "Categoria:"
 
 #: ../inc/page-title.php:32
 msgid "Tagged:"
-msgstr "Marquée:"
+msgstr "Taggato:"
 
 #: ../inc/page-title.php:35
 msgid "Daily Archive:"
-msgstr "Archivio quotidiano:"
+msgstr "Archivio Giornaliero:"
 
 #: ../inc/page-title.php:38
 msgid "Monthly Archive:"
-msgstr "Archivio mensile:"
+msgstr "Archivio Mensile:"
 
 #: ../inc/page-title.php:41
 msgid "Yearly Archive:"
-msgstr "Archive annuale:"
+msgstr "Archivio Annuale:"
 
 #: ../inc/post-nav.php:3
 msgid "Next story"
-msgstr "Articolo successivo"
+msgstr "Prossimo articolo"
 
 #: ../inc/post-nav.php:4
 msgid "Previous story"
 msgstr "Articolo precedente"
 
-#: ../inc/related-posts.php:4
+#: ../inc/related-posts.php:6
 msgid "You may also like..."
-msgstr "Potrebbe piacerti anche..."
-
-#: ../inc/sharrre.php:2
-msgid "Share"
-msgstr "Condividi"
+msgstr "Ti potrebbe interessare anche..."
