@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
-"POT-Creation-Date: 2014-01-30 11:25+0100\n"
-"PO-Revision-Date: 2014-01-31 10:21+0100\n"
-"Last-Translator: raf\n"
-"Language-Team: raf\n"
-"Language: Catalan\n"
+"POT-Creation-Date: 2013-12-27 14:37+0100\n"
+"PO-Revision-Date: 2014-01-31 15:03+0100\n"
+"Last-Translator: raf <raf>\n"
+"Language-Team: VerÃ³nica Pascual <determinaccion@gmail.com>\n"
+"Language: Spanish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,12 +15,8 @@ msgstr ""
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../404.php:14
-msgid ""
-"The page you are trying to reach does not exist, or has been moved. Please "
-"use the menus or the search box to find what you are looking for."
-msgstr ""
-"La pàgina sol·licitada no existeix o ha canviat d'enllaç. Si us plau, feu servir "
-"els menús o el cercador per trobar-la."
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "La pÃ gina solÂ·licitada no existeix o ha canviat d'enllaÃ§. Si us plau, feu servir els menÃºs o el cercador per trobar-la."
 
 #: ../comments.php:7
 msgid "No Responses"
@@ -28,7 +24,7 @@ msgstr "Sense respostes"
 
 #: ../comments.php:7
 msgid "1 Response"
-msgstr "1 Resposta"
+msgstr "1 resposta"
 
 #: ../comments.php:7
 msgid "% Responses"
@@ -44,7 +40,7 @@ msgstr "Trackbacks i Pingbacks"
 
 #: ../footer.php:67
 msgid "All Rights Reserved."
-msgstr "Tots els drets reservats."
+msgstr "Tots els drets reservats"
 
 #: ../footer.php:73
 msgid "Powered by"
@@ -64,19 +60,20 @@ msgstr "Si us plau proveu una altra cerca:"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "Cal escriure un text i prèmer Enter"
+msgstr "Cal escriure un text i prÃ¨mer Enter"
 
-#: ../sidebar-2.php:5 ../sidebar.php:9
+#: ../sidebar-2.php:5
+#: ../sidebar.php:9
 msgid "Expand Sidebar"
 msgstr "Expandiu la barra lateral"
 
 #: ../sidebar-2.php:10
 msgid "More"
-msgstr "Més"
+msgstr "MÃ©s"
 
 #: ../sidebar.php:14
 msgid "Follow:"
-msgstr "Seguir:"
+msgstr "Segueix:"
 
 #: ../single.php:14
 msgid "by"
@@ -84,7 +81,7 @@ msgstr "per"
 
 #: ../single.php:23
 msgid "Pages:"
-msgstr "Pàgines:"
+msgstr "PÃ¡gines:"
 
 #: ../single.php:35
 msgid "Tags:"
@@ -120,7 +117,7 @@ msgstr "Error 404."
 
 #: ../inc/page-title.php:22
 msgid "Page not found!"
-msgstr "No s'ha trobat la pàgina!"
+msgstr "No s'ha trobat la pÃ gina!"
 
 #: ../inc/page-title.php:26
 msgid "Author:"
@@ -148,7 +145,7 @@ msgstr "Arxiu anual:"
 
 #: ../inc/post-nav.php:3
 msgid "Next story"
-msgstr "Article següent"
+msgstr "Article segÃ¼ent"
 
 #: ../inc/post-nav.php:4
 msgid "Previous story"
@@ -156,8 +153,9 @@ msgstr "Article anterior"
 
 #: ../inc/related-posts.php:6
 msgid "You may also like..."
-msgstr "També us podria interessar..."
+msgstr "TambÃ© us podria interessar..."
 
 #: ../inc/sharrre.php:2
 msgid "Share"
 msgstr "Compartir"
+
