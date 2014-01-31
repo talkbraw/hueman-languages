@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2014-01-30 11:25+0100\n"
+"PO-Revision-Date: 2014-01-31 10:21+0100\n"
+"Last-Translator: raf\n"
+"Language-Team: raf\n"
+"Language: Catalan\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"La pàgina sol·licitada no existeix o ha canviat d'enllaç. Si us plau, feu servir "
+"els menús o el cercador per trobar-la."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Sense respostes"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 Resposta"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% respostes"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Comentaris"
+
+#: ../comments.php:11
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks i Pingbacks"
+
+#: ../footer.php:67
+msgid "All Rights Reserved."
+msgstr "Tots els drets reservats."
+
+#: ../footer.php:73
+msgid "Powered by"
+msgstr "Recolzat en"
+
+#: ../footer.php:73
+msgid "Theme by"
+msgstr "Tema per"
+
+#: ../search.php:10
+msgid "For the term"
+msgstr "Per el terme"
+
+#: ../search.php:12
+msgid "Please try another search:"
+msgstr "Si us plau proveu una altra cerca:"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Cal escriure un text i prèmer Enter"
+
+#: ../sidebar-2.php:5 ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Expandiu la barra lateral"
+
+#: ../sidebar-2.php:10
+msgid "More"
+msgstr "Més"
+
+#: ../sidebar.php:14
+msgid "Follow:"
+msgstr "Seguir:"
+
+#: ../single.php:14
+msgid "by"
+msgstr "per"
+
+#: ../single.php:23
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: ../single.php:35
+msgid "Tags:"
+msgstr "Etiquetes:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Entrades recents"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Entrades populars"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Comentaris recents"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "diu:"
+
+#: ../inc/page-title.php:19
+msgid "Search results"
+msgstr "Resultats de la cerca"
+
+#: ../inc/page-title.php:22
+msgid "Error 404."
+msgstr "Error 404."
+
+#: ../inc/page-title.php:22
+msgid "Page not found!"
+msgstr "No s'ha trobat la pàgina!"
+
+#: ../inc/page-title.php:26
+msgid "Author:"
+msgstr "Autor:"
+
+#: ../inc/page-title.php:29
+msgid "Category:"
+msgstr "Categoria:"
+
+#: ../inc/page-title.php:32
+msgid "Tagged:"
+msgstr "Etiquetat:"
+
+#: ../inc/page-title.php:35
+msgid "Daily Archive:"
+msgstr "Arxiu diari:"
+
+#: ../inc/page-title.php:38
+msgid "Monthly Archive:"
+msgstr "Arxiu mensual:"
+
+#: ../inc/page-title.php:41
+msgid "Yearly Archive:"
+msgstr "Arxiu anual:"
+
+#: ../inc/post-nav.php:3
+msgid "Next story"
+msgstr "Article següent"
+
+#: ../inc/post-nav.php:4
+msgid "Previous story"
+msgstr "Article anterior"
+
+#: ../inc/related-posts.php:6
+msgid "You may also like..."
+msgstr "També us podria interessar..."
+
+#: ../inc/sharrre.php:2
+msgid "Share"
+msgstr "Compartir"
