@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2013-12-27 14:37+0100\n"
+"PO-Revision-Date: 2013-12-27 14:37+0100\n"
+"Last-Translator: Dominikos \n"
+"Language-Team: Dominikos Pritis (dominikos@me.com) \n"
+"Language: Greek\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr "Η Σελίδα που ψάχνετε δεν υπάρχει ή έχει μεταφερθεί. 
+Παρακαλώ χρησιμοποιήστε το μενού ή την αναζήτηση για να βρείτε αυτό που ψάχνατε"
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Χωρίς Απαντήσεις"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 Απάντηση"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% Απαντήσεις"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: ../comments.php:11
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: ../footer.php:67
+msgid "All Rights Reserved."
+msgstr "Με επιφύλαξη παντώς δικαιώματος"
+
+#: ../footer.php:73
+msgid "Powered by"
+msgstr "Powered by"
+
+#: ../footer.php:73
+msgid "Theme by"
+msgstr "Θέμα από"
+
+#: ../search.php:10
+msgid "For the term"
+msgstr "Για τον όρο"
+
+#: ../search.php:12
+msgid "Please try another search:"
+msgstr "Παρακαλώ δοκιμάστε άλλη αναζήτηση"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Για αναζήτηση πληκτρολογήστε και πατήστε Enter"
+
+#: ../sidebar-2.php:5 ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Expand Sidebar"
+
+#: ../sidebar-2.php:10
+msgid "More"
+msgstr "Περισσότερα"
+
+#: ../sidebar.php:14
+msgid "Follow:"
+msgstr "Ακολουθήστε"
+
+#: ../single.php:14
+msgid "by"
+msgstr "από"
+
+#: ../single.php:23
+msgid "Pages:"
+msgstr "Σελίδες"
+
+#: ../single.php:35
+msgid "Tags:"
+msgstr "Ετικέτες"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Πρόσφατες Δημοσιεύσεις"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Δημοφηλεις Δημοσιεύσεις"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Πρόσφατα Σχόλια"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "λέει"
+
+#: ../inc/page-title.php:19
+msgid "Search results"
+msgstr "Αποτελέσματα αναζήτησης"
+
+#: ../inc/page-title.php:22
+msgid "Error 404."
+msgstr "Error 404."
+
+#: ../inc/page-title.php:22
+msgid "Page not found!"
+msgstr "Η Σελίδα δεν βρέθηκε"
+
+#: ../inc/page-title.php:26
+msgid "Author:"
+msgstr "Συντάκτης:"
+
+#: ../inc/page-title.php:29
+msgid "Category:"
+msgstr "Κατηγορία:"
+
+#: ../inc/page-title.php:32
+msgid "Tagged:"
+msgstr "Tagged:"
+
+#: ../inc/page-title.php:35
+msgid "Daily Archive:"
+msgstr "Αρχείο Ημέρας"
+
+#: ../inc/page-title.php:38
+msgid "Monthly Archive:"
+msgstr "Αρχείο Μήνα"
+
+#: ../inc/page-title.php:41
+msgid "Yearly Archive:"
+msgstr "Αρχείο Έτους"
+
+#: ../inc/post-nav.php:3
+msgid "Next story"
+msgstr "Επόμενο άρθρο"
+
+#: ../inc/post-nav.php:4
+msgid "Previous story"
+msgstr "Προηγούμενο άρθρο"
+
+#: ../inc/related-posts.php:6
+msgid "You may also like..."
+msgstr "Μπορεί να σας αρέσουν επίσης..."
+
+#: ../inc/sharrre.php:2
+msgid "Share"
+msgstr "Μοιράσου το"
