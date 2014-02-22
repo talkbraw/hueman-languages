@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:39+0100\n"
-"PO-Revision-Date: 2014-02-19 16:30+0100\n"
+"PO-Revision-Date: 2014-02-21 19:54+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -80,7 +80,7 @@ msgstr "Seko:"
 
 #: ../single.php:14
 msgid "by"
-msgstr "no"
+msgstr "-"
 
 #: ../single.php:23
 msgid "Pages:"
@@ -148,11 +148,11 @@ msgstr "Gada arhīvs:"
 
 #: ../inc/post-nav.php:3
 msgid "Next story"
-msgstr "Nākamais ieraksts"
+msgstr "Nākamais raksts"
 
 #: ../inc/post-nav.php:4
 msgid "Previous story"
-msgstr "Iepriekšējais ieraksts"
+msgstr "Iepriekšējais raksts"
 
 #: ../inc/related-posts.php:6
 msgid "You may also like..."
