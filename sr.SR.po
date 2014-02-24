@@ -1,5 +1,4 @@
 
-
     Explore
     Gist
     Blog
@@ -95,11 +94,11 @@ msgstr "Raširi bičnu traku"
 
 #: ../sidebar-2.php:10
 msgid "More"
-msgstr "Još"
+msgstr "Više"
 
 #: ../sidebar.php:14
 msgid "Follow:"
-msgstr "Sledi:"
+msgstr "Pratite:"
 
 #: ../single.php:14
 msgid "by"
