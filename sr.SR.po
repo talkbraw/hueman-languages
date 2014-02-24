@@ -1,0 +1,191 @@
+
+    Explore
+    Gist
+    Blog
+    Help
+
+    omduk omduk
+
+    7
+    5
+    33
+
+public AlxMedia / hueman-languages
+
+hueman-languages / sr_SR.po
+
+Serbian, by Dukom
+
+0 contributors
+file 156 lines (121 sloc) 3.158 kb
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 	
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2013-12-08 21:51+0100\n"
+"PO-Revision-Date: 2014-01-18 19:11+0100\n"
+"Last-Translator: Dukom <dukomd@yahoo.com>\n"
+"Language-Team: \n"
+"Language: Serbian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"Stranica koju tražite ne postoji ili je premeštena. Molimo pretražite "
+"pomoću menija ili pretragom."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Nema odziva"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 odziv"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% odziv"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Komentari"
+
+#: ../comments.php:11
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trakbek &amp; Pingbek"
+
+#: ../footer.php:67
+msgid "All Rights Reserved."
+msgstr "Sva Prava Zadržana."
+
+#: ../footer.php:73
+msgid "Powered by"
+msgstr "Pokreće"
+
+#: ../footer.php:73
+msgid "Theme by"
+msgstr "Autor teme:"
+
+#: ../search.php:10
+msgid "For the term"
+msgstr "Za izraz"
+
+#: ../search.php:12
+msgid "Please try another search:"
+msgstr "Molimo pokušajte novu pretragu:"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Za pretragu kucajte i pritisnite enter"
+
+#: ../sidebar-2.php:5 ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Raširi bičnu traku"
+
+#: ../sidebar-2.php:10
+msgid "More"
+msgstr "Više"
+
+#: ../sidebar.php:14
+msgid "Follow:"
+msgstr "Pratite:"
+
+#: ../single.php:14
+msgid "by"
+msgstr "od"
+
+#: ../single.php:23
+msgid "Pages:"
+msgstr "Strane:"
+
+#: ../single.php:34
+msgid "Tags:"
+msgstr "Oznake:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Nedavne objave"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Popularne objave"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Nedavni komentari"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Oznake"
+
+#: ../inc/page-title.php:19
+msgid "Search results"
+msgstr "Rezultati pretrage"
+
+#: ../inc/page-title.php:22
+msgid "Error 404."
+msgstr "Greška 404."
+
+#: ../inc/page-title.php:22
+msgid "Page not found!"
+msgstr "Stranica nije nađena!"
+
+#: ../inc/page-title.php:26
+msgid "Author:"
+msgstr "Autor:"
+
+#: ../inc/page-title.php:29
+msgid "Category:"
+msgstr "Kategorija:"
+
+#: ../inc/page-title.php:32
+msgid "Tagged:"
+msgstr "Označeno:"
+
+#: ../inc/page-title.php:35
+msgid "Daily Archive:"
+msgstr "Dnevna arhiva:"
+
+#: ../inc/page-title.php:38
+msgid "Monthly Archive:"
+msgstr "Mesečna arhiva:"
+
+#: ../inc/page-title.php:41
+msgid "Yearly Archive:"
+msgstr "Godišnja arhiva:"
+
+#: ../inc/post-nav.php:3
+msgid "Next story"
+msgstr "Sledeća"
+
+#: ../inc/post-nav.php:4
+msgid "Previous story"
+msgstr "Prethodno"
+
+#: ../inc/related-posts.php:6
+msgid "You may also like..."
+msgstr "Možda vam se svidi i ..."
+
+    Status
+    API
+    Training
+    Shop
+    Blog
+    About
+
+    © 2014 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Contact
+
