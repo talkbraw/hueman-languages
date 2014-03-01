@@ -1,22 +1,18 @@
+# Translation of Hueman in Hungarian
+# This file is distributed under the same license as the Hueman package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hueman\n"
-"POT-Creation-Date: 2013-10-30 17:16+0100\n"
-"PO-Revision-Date: 2013-12-29 17:29+0100\n"
-"Last-Translator: Laszlo Espadas <kw@kardiweb.org>\n"
-"Language-Team: \n"
-"Language: English\n"
+"PO-Revision-Date: 2014-03-01 08:48:30+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
-"X-Poedit-KeywordsList: __;_e\n"
-"X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Hueman\n"
 
-#: ../404.php:17
-msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
-msgstr "A bejegyzés vagy oldal amit keresünk nem található. Próbálkozzunk meg egy új kereséssel."
+#: ../404.php:14
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "A keresett oldal nem található. Tekintsünk meg egy hasonló oldalt vagy használjuk a keresés funkciót."
 
 #: ../comments.php:7
 msgid "No Responses"
@@ -38,23 +34,23 @@ msgstr "Hozzászólás"
 msgid "Trackbacks &amp; Pingbacks"
 msgstr "Visszajelzés &amp; Visszakövetés"
 
-#: ../footer.php:61
+#: ../footer.php:67
 msgid "All Rights Reserved."
 msgstr "Minden jog fenntartva."
 
-#: ../footer.php:67
+#: ../footer.php:73
 msgid "Powered by"
-msgstr "Rendszer:"
+msgstr "Rendszer"
 
-#: ../footer.php:67
-msgid "Designed by"
-msgstr "Sablon:"
+#: ../footer.php:73
+msgid "Theme by"
+msgstr "Sablon"
 
-#: ../search.php:13
+#: ../search.php:10
 msgid "For the term"
 msgstr "Kifejezés"
 
-#: ../search.php:15
+#: ../search.php:12
 msgid "Please try another search:"
 msgstr "Próbálkozzunk meg egy újabb kereséssel:"
 
@@ -62,46 +58,49 @@ msgstr "Próbálkozzunk meg egy újabb kereséssel:"
 msgid "To search type and hit enter"
 msgstr "A keresendő szó majd enter"
 
-#: ../sidebar-2.php:4
-#: ../sidebar.php:13
+#: ../sidebar-2.php:5 ../sidebar.php:9
 msgid "Expand Sidebar"
 msgstr "Oldalsáv kibontás"
 
-#: ../sidebar-2.php:9
+#: ../sidebar-2.php:10
 msgid "More"
 msgstr "Továbbiak"
 
-#: ../sidebar.php:18
+#: ../sidebar.php:14
 msgid "Follow:"
 msgstr "Követés:"
 
-#: ../single.php:17
+#: ../single.php:14
 msgid "by"
 msgstr "Szerző: "
 
-#: ../single.php:26
+#: ../single.php:23
 msgid "Pages:"
 msgstr "Oldalak:"
 
-#: ../single.php:38
+#: ../single.php:35
 msgid "Tags:"
 msgstr "Címke:"
 
-#: ../functions/widgets/alx-tabs.php:29
+#: ../functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
 msgstr "Legújabb bejegyzések"
 
-#: ../functions/widgets/alx-tabs.php:30
+#: ../functions/widgets/alx-tabs.php:28
 msgid "Popular Posts"
 msgstr "Népszerű bejegyzések"
 
-#: ../functions/widgets/alx-tabs.php:31
+#: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
 msgstr "Legújabb hozzászólások"
 
-#: ../functions/widgets/alx-tabs.php:32
+#: ../functions/widgets/alx-tabs.php:30
 msgid "Tags"
 msgstr "Címke"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "hozzászólás:"
 
 #: ../inc/page-title.php:19
 msgid "Search results"
@@ -147,11 +146,10 @@ msgstr "Következő bejegyzés"
 msgid "Previous story"
 msgstr "Előző bejegyzés"
 
-#: ../inc/related-posts.php:4
+#: ../inc/related-posts.php:6
 msgid "You may also like..."
 msgstr "Kedvelt bejegyzések"
 
 #: ../inc/sharrre.php:2
 msgid "Share"
-msgstr "Megosztás"
-
+msgstr " "
