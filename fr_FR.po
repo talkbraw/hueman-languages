@@ -19,7 +19,7 @@ msgid ""
 "The page you trying to reach does not exist, or has been moved. Please use "
 "the menus or the search box to find what you are looking for."
 msgstr ""
-"La page que vous essayez d'atteindre n'existe pas, ou a changer "
+"La page que vous essayez d'atteindre n'existe pas, ou a changé "
 "d'emplacement. Utilisez s'il vous plait les menus ou le formulaire de "
 "recherche afin de trouver ce que vous cherchiez."
 
@@ -33,7 +33,7 @@ msgstr "Une réponse"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% réponses"
+msgstr "% Réponses"
 
 #: ../comments.php:10
 msgid "Comments"
