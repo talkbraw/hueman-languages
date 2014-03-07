@@ -25,15 +25,15 @@ msgstr ""
 
 #: ../comments.php:7
 msgid "No Responses"
-msgstr "কোনো সাড়া নেই"
+msgstr "কোনো জবাব নেই"
 
 #: ../comments.php:7
 msgid "1 Response"
-msgstr "একটি সাড়া"
+msgstr "একটি জবাব"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% টি সাড়া"
+msgstr "% টি জবাব"
 
 #: ../comments.php:10
 msgid "Comments"
