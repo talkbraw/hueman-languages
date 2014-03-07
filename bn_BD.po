@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2013-10-30 17:16+0100\n"
+"PO-Revision-Date: 2014-02-08 14:22+0530\n"
+"Last-Translator: Aminul Islam <aminmedia@gmail.com>\n"
+"Language-Team: Aminul Islam <aminmedia@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: bn_BD\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid ""
+"The page you trying to reach does not exist, or has been moved. Please use "
+"the menus or the search box to find what you are looking for."
+msgstr ""
+"আপনি যে পাতাটি খুঁজছেন তা পাওয়া যাচ্ছে না, হয়তো সেটা সরিয়ে ফেলা হয়েছে।  অনুগ্রহ করে মেনুগুলো"
+"ব্যবহার করুন অথবা অনুসন্ধান বক্স এ আপনার কাঙ্খিত পাতাটি খুঁজে বের করতে পারেন।"
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "কোনো জবাব নেই"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "একটি জবাব"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% টি জবাব"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "মন্তব্যসমূহ"
+
+#: ../comments.php:11
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "ট্র্যাকব্যাকসমূহ &amp; পিংসমূহ"
+
+#: ../footer.php:61
+msgid "All Rights Reserved."
+msgstr "সকল স্বত্ত্ব সংরক্ষিত।"
+
+#: ../footer.php:67
+msgid "Powered by"
+msgstr "চালিকাশক্তিঃ"
+
+#: ../footer.php:67
+msgid "Designed by"
+msgstr "ডিজাইন করেছেন"
+
+#: ../search.php:13
+msgid "For the term"
+msgstr "অনুসন্ধান করেছেন"
+
+#: ../search.php:15
+msgid "Please try another search:"
+msgstr "অনুগ্রহ করে আরেকটি অনুসন্ধান চেস্টা করুনঃ"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "অনুসন্ধানের জন্য টাইপ করুন ও তারপর enter চাপদিন"
+
+#: ../sidebar-2.php:4 ../sidebar.php:13
+msgid "Expand Sidebar"
+msgstr "সাইডবার বিস্তার করুন"
+
+#: ../sidebar-2.php:9
+msgid "More"
+msgstr "আরও"
+
+#: ../sidebar.php:18
+msgid "Follow:"
+msgstr "অনুসরণ করুনঃ"
+
+#: ../single.php:17
+msgid "by"
+msgstr "দ্বারা"
+
+#: ../single.php:26
+msgid "Pages:"
+msgstr "পাতাঃ"
+
+#: ../single.php:38
+msgid "Tags:"
+msgstr "ট্যাগসমূহঃ"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Posts"
+msgstr "সাম্প্রতিক প্রকাশনাসমূহ"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Popular Posts"
+msgstr "জনপ্রিয় প্রকাশনাসমূহ"
+
+#: ../functions/widgets/alx-tabs.php:31
+msgid "Recent Comments"
+msgstr "সাম্প্রতিক মতামতসমূহ"
+
+#: ../functions/widgets/alx-tabs.php:32
+msgid "Tags"
+msgstr "ট্যাগসমূহ"
+
+#: ../inc/page-title.php:19
+msgid "Search results"
+msgstr "অনুসন্ধানের ফলাফলসমুহ"
+
+#: ../inc/page-title.php:22
+msgid "Error 404."
+msgstr "সমস্যা ৪০৪।"
+
+#: ../inc/page-title.php:22
+msgid "Page not found!"
+msgstr "পাতাটি খুঁজে পাওয়া গেলনা!"
+
+#: ../inc/page-title.php:26
+msgid "Author:"
+msgstr "লেখক/লেখিকাঃ"
+
+#: ../inc/page-title.php:29
+msgid "Category:"
+msgstr "বিভাগঃ"
+
+#: ../inc/page-title.php:32
+msgid "Tagged:"
+msgstr "ট্যাগঃ"
+
+#: ../inc/page-title.php:35
+msgid "Daily Archive:"
+msgstr "দৈনিক আর্কাইভঃ"
+
+#: ../inc/page-title.php:38
+msgid "Monthly Archive:"
+msgstr "মাসিক আর্কাইভঃ"
+
+#: ../inc/page-title.php:41
+msgid "Yearly Archive:"
+msgstr "বাৎসরিক আর্কাইভঃ"
+
+#: ../inc/post-nav.php:3
+msgid "Next story"
+msgstr "পরবর্তী প্রকাশনা"
+
+#: ../inc/post-nav.php:4
+msgid "Previous story"
+msgstr "পূর্ববর্তী প্রকাশনা"
+
+#: ../inc/related-posts.php:4
+msgid "You may also like..."
+msgstr "আপনার আরও ভাল লাগতে পারে..."
+
+#: ../inc/sharrre.php:2
+msgid "Share"
+msgstr "শেয়ার করুন"
