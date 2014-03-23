@@ -18,8 +18,9 @@ msgstr ""
 msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
-msgstr "Η Σελίδα που ψάχνετε δεν υπάρχει ή έχει μεταφερθεί. 
-Παρακαλώ χρησιμοποιήστε το μενού ή την αναζήτηση για να βρείτε αυτό που ψάχνατε"
+msgstr ""
+"Η Σελίδα που ψάχνετε δεν υπάρχει ή έχει μεταφερθεί.Παρακαλώ "
+"χρησιμοποιήστε το μενού ή την αναζήτηση για να βρείτε αυτό που ψάχνατε"
 
 #: ../comments.php:7
 msgid "No Responses"
