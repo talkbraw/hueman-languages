@@ -1,17 +1,26 @@
-# Translation of Hueman in Hungarian
-# This file is distributed under the same license as the Hueman package.
+# 
+# Translators: Laszlo Espadas
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-03-01 08:48:30+0000\n"
+"Project-Id-Version: Hueman theme\n"
+"POT-Creation-Date: 2013-12-27 14:37+0100\n"
+"PO-Revision-Date: 2014-03-17 23:07+0000\n"
+"Last-Translator: Laszlo Espadas <kw @NOSPAM@ kardiweb dot org>\n"
+"Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/hueman-theme/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/0.1\n"
-"Project-Id-Version: Hueman\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
 
 #: ../404.php:14
-msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
 msgstr "A keresett oldal nem található. Tekintsünk meg egy hasonló oldalt vagy használjuk a keresés funkciót."
 
 #: ../comments.php:7
@@ -152,4 +161,4 @@ msgstr "Kedvelt bejegyzések"
 
 #: ../inc/sharrre.php:2
 msgid "Share"
-msgstr " "
+msgstr "Megosztás"
