@@ -56,7 +56,7 @@ msgstr "Theme by"
 
 #: ../search.php:10
 msgid "For the term"
-msgstr "Für die Dauer"
+msgstr "Für den Begriff"
 
 #: ../search.php:12
 msgid "Please try another search:"
