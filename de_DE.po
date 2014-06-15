@@ -64,7 +64,7 @@ msgstr "Bitte versuche eine neue Suche:"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "Zum suchen Begriff eingeben und Enter drücken"
+msgstr "Suchbegriff"
 
 #: ../sidebar-2.php:5 ../sidebar.php:9
 msgid "Expand Sidebar"
