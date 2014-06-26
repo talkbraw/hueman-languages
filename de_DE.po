@@ -56,7 +56,7 @@ msgstr "Theme by"
 
 #: ../search.php:10
 msgid "For the term"
-msgstr "Für die Dauer"
+msgstr "Für den Begriff"
 
 #: ../search.php:12
 msgid "Please try another search:"
@@ -64,7 +64,7 @@ msgstr "Bitte versuche eine neue Suche:"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "Zum Suchen tippen und Enter drücken"
+msgstr "Suchbegriff"
 
 #: ../sidebar-2.php:5 ../sidebar.php:9
 msgid "Expand Sidebar"
@@ -108,7 +108,7 @@ msgstr "Tags"
 
 #: ../functions/widgets/alx-tabs.php:185
 msgid "says:"
-msgstr "heißt:"
+msgstr "sagt:"
 
 #: ../inc/page-title.php:19
 msgid "Search results"
