@@ -17,8 +17,8 @@ msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
 msgstr ""
-"Запрошенная страница не найдена, наверное ее несуществует или она была "
-"перемещена. Воспользуйтесь меню или формой поиска, чтобы найти то чем Вы "
+"Запрошенная страница не найдена, наверное ее не существует или она была "
+"перемещена. Воспользуйтесь меню или формой поиска, чтобы найти то, чем Вы "
 "интересуетесь."
 
 #: ../comments.php:7
@@ -27,11 +27,11 @@ msgstr "Ответов нет"
 
 #: ../comments.php:7
 msgid "1 Response"
-msgstr "1 Ответ"
+msgstr "1 ответ"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% Отвевов"
+msgstr "% отвевов"
 
 #: ../comments.php:10
 msgid "Comments"
@@ -44,7 +44,7 @@ msgstr "Обратные ссылки и запросы"
 
 #: ../footer.php:67
 msgid "All Rights Reserved."
-msgstr "Все права защищены"
+msgstr "Все права защищены."
 
 #: ../footer.php:73
 msgid "Powered by"
@@ -129,7 +129,7 @@ msgstr "Автор:"
 
 #: ../inc/page-title.php:29
 msgid "Category:"
-msgstr "Категория:"
+msgstr "Рубрика:"
 
 #: ../inc/page-title.php:32
 msgid "Tagged:"
@@ -157,7 +157,7 @@ msgstr "Предыдущая запись"
 
 #: ../inc/related-posts.php:6
 msgid "You may also like..."
-msgstr "Вам также может понравиться ..."
+msgstr "Вам также может понравиться..."
 
 #: ../inc/sharrre.php:2
 msgid "Share"
