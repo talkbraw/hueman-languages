@@ -110,39 +110,39 @@ msgstr "Etiquetas"
 msgid "says:"
 msgstr "dice:"
 
-#: ../inc/page-title.php:19
+#: ../inc/page-title.php:21
 msgid "Search results"
 msgstr "Resultados de la Búsqueda"
 
-#: ../inc/page-title.php:22
+#: ../inc/page-title.php:24
 msgid "Error 404."
 msgstr "Error 404"
 
-#: ../inc/page-title.php:22
+#: ../inc/page-title.php:24
 msgid "Page not found!"
 msgstr "No se ha encontrado la página"
 
-#: ../inc/page-title.php:26
+#: ../inc/page-title.php:28
 msgid "Author:"
 msgstr "Autor:"
 
-#: ../inc/page-title.php:29
+#: ../inc/page-title.php:31
 msgid "Category:"
 msgstr "Categoría:"
 
-#: ../inc/page-title.php:32
+#: ../inc/page-title.php:34
 msgid "Tagged:"
 msgstr "Etiquetado:"
 
-#: ../inc/page-title.php:35
+#: ../inc/page-title.php:37
 msgid "Daily Archive:"
 msgstr "Archivo Diario:"
 
-#: ../inc/page-title.php:38
+#: ../inc/page-title.php:40
 msgid "Monthly Archive:"
 msgstr "Archivo Mensual:"
 
-#: ../inc/page-title.php:41
+#: ../inc/page-title.php:43
 msgid "Yearly Archive:"
 msgstr "Archivo Anual:"
 
