@@ -2,38 +2,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-10-30 17:16+0100\n"
-"PO-Revision-Date: 2013-12-30 21:30+0100\n"
+"PO-Revision-Date: 2014-09-05 18:32+0100\n"
 "Last-Translator: Bourboulou Romain <bouromain@gmail.com>\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 1.6.9\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../404.php:17
 msgid ""
-"The page you trying to reach does not exist, or has been moved. Please use "
-"the menus or the search box to find what you are looking for."
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
 msgstr ""
-"La page que vous essayez d'atteindre n'existe pas, ou a changé "
-"d'emplacement. Utilisez s'il vous plait les menus ou le formulaire de "
+"La page que vous essayez d'atteindre n'existe pas, ou a chang&eacute; "
+"d'emplacement. Utilisez s'il vous pla&icirc;t les menus ou le formulaire de "
 "recherche afin de trouver ce que vous cherchiez."
 
 #: ../comments.php:7
 msgid "No Responses"
-msgstr "Aucune réponse"
+msgstr "Aucune r&eacute;ponse"
 
 #: ../comments.php:7
 msgid "1 Response"
-msgstr "Une réponse"
+msgstr "Une r&eacute;ponse"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% Réponses"
+msgstr "% r&eacute;ponses"
 
 #: ../comments.php:10
 msgid "Comments"
@@ -41,19 +41,19 @@ msgstr "Commentaires"
 
 #: ../comments.php:11
 msgid "Trackbacks &amp; Pingbacks"
-msgstr "Rétroliens &amp; Pings"
+msgstr "R&eacute;troliens &amp; Pings"
 
 #: ../footer.php:61
 msgid "All Rights Reserved."
-msgstr "Tous droits réservés"
+msgstr "Tous droits r&eacute;serv&eacute;s"
 
 #: ../footer.php:67
 msgid "Powered by"
-msgstr "Propulsé par:"
+msgstr "Propuls&eacute; par"
 
 #: ../footer.php:67
-msgid "Designed by"
-msgstr "Conçu par:"
+msgid "Theme by"
+msgstr "Th&egrave;me con&ccedil;u par"
 
 #: ../search.php:13
 msgid "For the term"
@@ -61,55 +61,55 @@ msgstr "Pour le terme"
 
 #: ../search.php:15
 msgid "Please try another search:"
-msgstr "Essayez une nouvelle recherche:"
+msgstr "Essayez une nouvelle recherche :"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "Tapez votre recherche puis la touche entrer"
+msgstr "Effectuer une recherche"
 
 #: ../sidebar-2.php:4 ../sidebar.php:13
 msgid "Expand Sidebar"
-msgstr "Ouvrir la Sidebar"
+msgstr "Ouvrir le panneau lat&eacute;ral"
 
 #: ../sidebar-2.php:9
 msgid "More"
-msgstr "Plus"
+msgstr "Explorer"
 
 #: ../sidebar.php:18
 msgid "Follow:"
-msgstr "Suivre:"
+msgstr "Nous suivre :"
 
 #: ../single.php:17
 msgid "by"
-msgstr "Par: "
+msgstr "Par"
 
 #: ../single.php:26
 msgid "Pages:"
-msgstr "Pages:"
+msgstr "Pages :"
 
 #: ../single.php:38
 msgid "Tags:"
-msgstr "Tags:"
+msgstr "Mots-clefs :"
 
 #: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Posts"
-msgstr "Articles Récents"
+msgstr "Articles r&eacute;cents"
 
 #: ../functions/widgets/alx-tabs.php:30
 msgid "Popular Posts"
-msgstr "Articles Populaires"
+msgstr "Articles populaires"
 
 #: ../functions/widgets/alx-tabs.php:31
 msgid "Recent Comments"
-msgstr "Commentaires Récents"
+msgstr "Commentaires r&eacute;cents"
 
 #: ../functions/widgets/alx-tabs.php:32
 msgid "Tags"
-msgstr "Tags"
+msgstr "Mots-clefs"
 
 #: ../inc/page-title.php:19
 msgid "Search results"
-msgstr "Résultats de recherche"
+msgstr "R&eacute;sultats de recherche"
 
 #: ../inc/page-title.php:22
 msgid "Error 404."
@@ -117,31 +117,31 @@ msgstr "Erreur 404."
 
 #: ../inc/page-title.php:22
 msgid "Page not found!"
-msgstr "Page non trouvée!"
+msgstr "Page introuvable !"
 
 #: ../inc/page-title.php:26
 msgid "Author:"
-msgstr "Auteur:"
+msgstr "Auteur :"
 
 #: ../inc/page-title.php:29
 msgid "Category:"
-msgstr "Catégorie:"
+msgstr "Cat&eacute;gorie :"
 
 #: ../inc/page-title.php:32
 msgid "Tagged:"
-msgstr "Marquée:"
+msgstr "Mots-clefs :"
 
 #: ../inc/page-title.php:35
 msgid "Daily Archive:"
-msgstr "Archive quotidienne:"
+msgstr "Archive quotidienne :"
 
 #: ../inc/page-title.php:38
 msgid "Monthly Archive:"
-msgstr "Archive mensuelle:"
+msgstr "Archive mensuelle :"
 
 #: ../inc/page-title.php:41
 msgid "Yearly Archive:"
-msgstr "Archive annuelle:"
+msgstr "Archive annuelle :"
 
 #: ../inc/post-nav.php:3
 msgid "Next story"
@@ -149,7 +149,7 @@ msgstr "Article suivant"
 
 #: ../inc/post-nav.php:4
 msgid "Previous story"
-msgstr "Article précédent"
+msgstr "Article pr&Eacute;c&Eacute;dent"
 
 #: ../inc/related-posts.php:4
 msgid "You may also like..."
