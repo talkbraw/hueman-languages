@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:37+0100\n"
-"PO-Revision-Date: 2014-10-11 15:02+0800\n"
+"PO-Revision-Date: 2014-10-11 15:04+0800\n"
 "Last-Translator: MinonHeart <liuhao.mt@qq.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -98,7 +98,7 @@ msgstr "热门文章"
 
 #: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
-msgstr "最近评论"
+msgstr "近期评论"
 
 #: ../functions/widgets/alx-tabs.php:30
 msgid "Tags"
