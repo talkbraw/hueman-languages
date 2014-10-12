@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:37+0100\n"
-"PO-Revision-Date: 2014-10-11 15:04+0800\n"
+"PO-Revision-Date: 2014-10-12 13:23+0800\n"
 "Last-Translator: MinonHeart <liuhao.mt@qq.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -22,15 +22,15 @@ msgstr "你访问的页面不存在或已被移除，请通过菜单或搜索框
 
 #: ../comments.php:7
 msgid "No Responses"
-msgstr "尚无评论"
+msgstr "没有回响"
 
 #: ../comments.php:7
 msgid "1 Response"
-msgstr "1 条评论"
+msgstr "1 条回响"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% 条评论"
+msgstr "% 条回响"
 
 #: ../comments.php:10
 msgid "Comments"
