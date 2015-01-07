@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:37+0100\n"
-"PO-Revision-Date: 2015-01-07 22:58+0800\n"
+"PO-Revision-Date: 2015-01-07 23:03+0800\n"
 "Last-Translator: M. Yusry Hadi <myh.myh09@yahoo.com>\n"
 "Language-Team: M. Yusry Hadi <myh.myh09@yahoo.com>\n"
 "Language: ms_MY@latin\n"
@@ -153,7 +153,7 @@ msgstr "Cerita seterusnya:"
 
 #: ../inc/post-nav.php:4
 msgid "Previous story"
-msgstr "Cerita sebelum ini:"
+msgstr "Cerita sebelumnya:"
 
 #: ../inc/related-posts.php:6
 msgid "You may also like..."
