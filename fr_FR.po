@@ -1,20 +1,22 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Hueman\n"
-"POT-Creation-Date: 2013-10-30 17:16+0100\n"
-"PO-Revision-Date: 2014-09-05 18:32+0100\n"
-"Last-Translator: Bourboulou Romain <bouromain@gmail.com>\n"
+"Project-Id-Version: Hueman 2.2.2\n"
+"POT-Creation-Date: 2015-02-06 14:15+0100\n"
+"PO-Revision-Date: 2015-02-14 16:25+0100\n"
+"Last-Translator: Leeo97one <leeo97one@gmail.com>\n"
 "Language-Team: \n"
-"Language: en\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.9\n"
+"X-Generator: Poedit 1.7.4\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../404.php:17
+#: ../404.php:14
 msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
@@ -40,26 +42,26 @@ msgid "Comments"
 msgstr "Commentaires"
 
 #: ../comments.php:11
-msgid "Trackbacks &amp; Pingbacks"
-msgstr "R&eacute;troliens &amp; Pings"
+msgid "Pingbacks"
+msgstr "Rétroliens"
 
-#: ../footer.php:61
+#: ../footer.php:76
 msgid "All Rights Reserved."
 msgstr "Tous droits r&eacute;serv&eacute;s"
 
-#: ../footer.php:67
+#: ../footer.php:82
 msgid "Powered by"
 msgstr "Propuls&eacute; par"
 
-#: ../footer.php:67
+#: ../footer.php:82
 msgid "Theme by"
 msgstr "Th&egrave;me con&ccedil;u par"
 
-#: ../search.php:13
+#: ../search.php:10
 msgid "For the term"
 msgstr "Pour le terme"
 
-#: ../search.php:15
+#: ../search.php:12
 msgid "Please try another search:"
 msgstr "Essayez une nouvelle recherche :"
 
@@ -67,79 +69,87 @@ msgstr "Essayez une nouvelle recherche :"
 msgid "To search type and hit enter"
 msgstr "Effectuer une recherche"
 
-#: ../sidebar-2.php:4 ../sidebar.php:13
+#: ../sidebar-2.php:5 ../sidebar.php:9
 msgid "Expand Sidebar"
 msgstr "Ouvrir le panneau lat&eacute;ral"
 
-#: ../sidebar-2.php:9
+#: ../sidebar-2.php:11
 msgid "More"
 msgstr "Explorer"
 
-#: ../sidebar.php:18
+#: ../sidebar.php:15
 msgid "Follow:"
 msgstr "Nous suivre :"
 
-#: ../single.php:17
+#: ../single.php:14
 msgid "by"
 msgstr "Par"
 
-#: ../single.php:26
+#: ../single.php:23
 msgid "Pages:"
 msgstr "Pages :"
 
-#: ../single.php:38
+#: ../single.php:35
 msgid "Tags:"
 msgstr "Mots-clefs :"
 
-#: ../functions/widgets/alx-tabs.php:29
+#: ../functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
 msgstr "Articles r&eacute;cents"
 
-#: ../functions/widgets/alx-tabs.php:30
+#: ../functions/widgets/alx-tabs.php:28
 msgid "Popular Posts"
 msgstr "Articles populaires"
 
-#: ../functions/widgets/alx-tabs.php:31
+#: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
 msgstr "Commentaires r&eacute;cents"
 
-#: ../functions/widgets/alx-tabs.php:32
+#: ../functions/widgets/alx-tabs.php:30
 msgid "Tags"
 msgstr "Mots-clefs"
 
-#: ../inc/page-title.php:19
+#: ../functions/widgets/alx-tabs.php:187
+msgid "says:"
+msgstr "dit :"
+
+#: ../inc/page-title.php:23
+msgid "Search result"
+msgstr "R&eacute;sultat de recherche"
+
+#: ../inc/page-title.php:25
 msgid "Search results"
 msgstr "R&eacute;sultats de recherche"
 
-#: ../inc/page-title.php:22
+#: ../inc/page-title.php:31
 msgid "Error 404."
 msgstr "Erreur 404."
 
-#: ../inc/page-title.php:22
+#: ../inc/page-title.php:31
 msgid "Page not found!"
 msgstr "Page introuvable !"
 
-#: ../inc/page-title.php:26
+#: ../inc/page-title.php:35
 msgid "Author:"
 msgstr "Auteur :"
 
-#: ../inc/page-title.php:29
+#: ../inc/page-title.php:38
 msgid "Category:"
 msgstr "Cat&eacute;gorie :"
 
-#: ../inc/page-title.php:32
+#: ../inc/page-title.php:41
 msgid "Tagged:"
 msgstr "Mots-clefs :"
 
-#: ../inc/page-title.php:35
+#: ../inc/page-title.php:44
 msgid "Daily Archive:"
 msgstr "Archive quotidienne :"
 
-#: ../inc/page-title.php:38
+#: ../inc/page-title.php:47
 msgid "Monthly Archive:"
 msgstr "Archive mensuelle :"
 
-#: ../inc/page-title.php:41
+#: ../inc/page-title.php:50
 msgid "Yearly Archive:"
 msgstr "Archive annuelle :"
 
@@ -151,10 +161,13 @@ msgstr "Article suivant"
 msgid "Previous story"
 msgstr "Article pr&Eacute;c&Eacute;dent"
 
-#: ../inc/related-posts.php:4
+#: ../inc/related-posts.php:6
 msgid "You may also like..."
 msgstr "Vous pourriez aussi aimer..."
 
 #: ../inc/sharrre.php:2
 msgid "Share"
 msgstr "Partager"
+
+#~ msgid "Trackbacks &amp; Pingbacks"
+#~ msgstr "R&eacute;troliens &amp; Pings"
