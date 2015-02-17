@@ -1,18 +1,27 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
-"POT-Creation-Date: 2013-12-27 14:37+0100\n"
-"PO-Revision-Date: 2014-01-11 08:56+0200\n"
-"Last-Translator: Alexey Smorchkhov <ya.redlex@yandex.ru>\n"
-"Language-Team: \n"
-"Language: Rusian\n"
+"POT-Creation-Date: 2015-02-15 14:12-0500\n"
+"PO-Revision-Date: 2015-02-15 14:15-0500\n"
+"Last-Translator: Gregory Karpinsky <gregory@tiv.net>\n"
+"Language-Team: Gregory Karpinsky <gregory@tiv.net>\n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../../themes/hueman\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: option-tree\n"
+"X-Poedit-SearchPathExcluded-1: functions/class-tgm-plugin-activation.php\n"
 
-
-#: ../404.php:14
-#, fuzzy
+#: 404.php:14
 msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
@@ -21,144 +30,142 @@ msgstr ""
 "перемещена. Воспользуйтесь меню или формой поиска, чтобы найти то, чем Вы "
 "интересуетесь."
 
-#: ../comments.php:7
+#: comments.php:7
 msgid "No Responses"
 msgstr "Ответов нет"
 
-#: ../comments.php:7
+#: comments.php:7
 msgid "1 Response"
 msgstr "1 ответ"
 
-#: ../comments.php:7
+#: comments.php:7
 msgid "% Responses"
 msgstr "% ответов"
 
-#: ../comments.php:10
+#: comments.php:10
 msgid "Comments"
 msgstr "Комментарии"
 
-#: ../comments.php:11
-#, fuzzy
-msgid "Trackbacks &amp; Pingbacks"
+#: comments.php:11
+msgid "Pingbacks"
 msgstr "Обратные ссылки и запросы"
 
-#: ../footer.php:67
+#: footer.php:76
 msgid "All Rights Reserved."
 msgstr "Все права защищены."
 
-#: ../footer.php:73
+#: footer.php:82
 msgid "Powered by"
 msgstr "Работает на"
 
-#: ../footer.php:73
+#: footer.php:82
 msgid "Theme by"
 msgstr "Дизайн от "
 
-#: ../search.php:10
-msgid "For the term"
-msgstr "На срок"
-
-#: ../search.php:12
-msgid "Please try another search:"
-msgstr "Пожалуйста, попробуйте другой запрос:"
-
-#: ../searchform.php:3
-msgid "To search type and hit enter"
-msgstr "Для поиска введите запрос и нажмите ввод"
-
-#: ../sidebar-2.php:5 ../sidebar.php:9
-msgid "Expand Sidebar"
-msgstr "Развернуть панель"
-
-#: ../sidebar-2.php:10
-msgid "More"
-msgstr "Больше"
-
-#: ../sidebar.php:14
-msgid "Follow:"
-msgstr "Подпишись:"
-
-#: ../single.php:14
-#, fuzzy
-msgid "by"
-msgstr "от"
-
-#: ../single.php:23
-msgid "Pages:"
-msgstr "Страницы:"
-
-#: ../single.php:35
-msgid "Tags:"
-msgstr "Метки:"
-
-#: ../functions/widgets/alx-tabs.php:27
+#: functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
-msgstr "Похожие записи"
+msgstr "Новые записи"
 
-#: ../functions/widgets/alx-tabs.php:28
+#: functions/widgets/alx-tabs.php:28
 msgid "Popular Posts"
 msgstr "Популярные записи"
 
-#: ../functions/widgets/alx-tabs.php:29
+#: functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
 msgstr "Последние комментарии"
 
-#: ../functions/widgets/alx-tabs.php:30
+#: functions/widgets/alx-tabs.php:30
 msgid "Tags"
 msgstr "Метки"
 
-#: ../functions/widgets/alx-tabs.php:185
+#: functions/widgets/alx-tabs.php:187
 msgid "says:"
 msgstr "говорит:"
 
-#: ../inc/page-title.php:19
+#: inc/page-title.php:23
+msgid "Search result"
+msgstr "Результат поиска"
+
+#: inc/page-title.php:25
 msgid "Search results"
 msgstr "Результаты поиска"
 
-#: ../inc/page-title.php:22
+#: inc/page-title.php:31
 msgid "Error 404."
 msgstr "Ошибка 404."
 
-#: ../inc/page-title.php:22
+#: inc/page-title.php:31
 msgid "Page not found!"
 msgstr "Страница не найдена!"
 
-#: ../inc/page-title.php:26
+#: inc/page-title.php:35
 msgid "Author:"
 msgstr "Автор:"
 
-#: ../inc/page-title.php:29
+#: inc/page-title.php:38
 msgid "Category:"
 msgstr "Рубрика:"
 
-#: ../inc/page-title.php:32
+#: inc/page-title.php:41
 msgid "Tagged:"
 msgstr "Помеченные:"
 
-#: ../inc/page-title.php:35
+#: inc/page-title.php:44
 msgid "Daily Archive:"
 msgstr "Архив за день:"
 
-#: ../inc/page-title.php:38
+#: inc/page-title.php:47
 msgid "Monthly Archive:"
 msgstr "Архив за месяц:"
 
-#: ../inc/page-title.php:41
+#: inc/page-title.php:50
 msgid "Yearly Archive:"
 msgstr "Архив за год:"
 
-#: ../inc/post-nav.php:3
+#: inc/post-nav.php:3
 msgid "Next story"
 msgstr "Следующая запись"
 
-#: ../inc/post-nav.php:4
+#: inc/post-nav.php:4
 msgid "Previous story"
 msgstr "Предыдущая запись"
 
-#: ../inc/related-posts.php:6
+#: inc/related-posts.php:6
 msgid "You may also like..."
 msgstr "Вам также может понравиться..."
 
-#: ../inc/sharrre.php:2
-msgid "Share"
-msgstr "Поделитесь"
+#: search.php:10
+msgid "For the term"
+msgstr "По запросу"
+
+#: search.php:12
+msgid "Please try another search:"
+msgstr "Пожалуйста, попробуйте другой запрос:"
+
+#: searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Для поиска введите запрос и нажмите ввод"
+
+#: sidebar-2.php:5 sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Развернуть панель"
+
+#: sidebar-2.php:11
+msgid "More"
+msgstr "Больше"
+
+#: sidebar.php:15
+msgid "Follow:"
+msgstr "Подпишись:"
+
+#: single.php:14
+msgid "by"
+msgstr "от"
+
+#: single.php:23
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: single.php:34
+msgid "Tags:"
+msgstr "Метки:"
