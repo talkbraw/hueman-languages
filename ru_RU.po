@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2015-02-15 14:12-0500\n"
-"PO-Revision-Date: 2015-02-15 14:15-0500\n"
-"Last-Translator: Gregory Karpinsky <gregory@tiv.net>\n"
+"PO-Revision-Date: 2015-03-01 17:42+0300\n"
+"Last-Translator: Dmitry Serzhenko <dmitry@serzhenko.ru>\n"
 "Language-Team: Gregory Karpinsky <gregory@tiv.net>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
@@ -169,3 +169,7 @@ msgstr "Страницы:"
 #: single.php:34
 msgid "Tags:"
 msgstr "Метки:"
+
+#: ../inc/sharrre.php:2
+msgid "Share"
+msgstr "Поделиться"
