@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2015-02-06 14:15+0100\n"
+"PO-Revision-Date: 2015-03-08 10:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"Az oldal, amelyet keresel el lett távolítva. Kérlek használd a menüket "
+"vagy a keresőt, hogy megtaláld a kívánt tartalmat."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Nincs hozzászólás"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 hozzászólás"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% hozzászólás"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Hozzászólások"
+
+#: ../comments.php:11
+msgid "Pingbacks"
+msgstr "Pingback"
+
+#: ../footer.php:76
+msgid "All Rights Reserved."
+msgstr "Minden jog fenntartva."
+
+#: ../footer.php:82
+msgid "Powered by"
+msgstr "Az oldal motorja"
+
+#: ../footer.php:82
+msgid "Theme by"
+msgstr "A témát készítette:"
+
+#: ../search.php:10
+msgid "For the term"
+msgstr "A kifejezés"
+
+#: ../search.php:12
+msgid "Please try another search:"
+msgstr "Kérlek, próbálj meg ismételten keresni:"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Kereséshez nyomj Entert."
+
+#: ../sidebar-2.php:5 ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Kiterjesztett sidebar"
+
+#: ../sidebar-2.php:11
+msgid "More"
+msgstr "Bővebben"
+
+#: ../sidebar.php:15
+msgid "Follow:"
+msgstr "Követési lehetőségek:"
+
+#: ../single.php:14
+msgid "by"
+msgstr "Írta:"
+
+#: ../single.php:23
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: ../single.php:35
+msgid "Tags:"
+msgstr "Címkék:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Új bejegyzések"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Népszerő bejegyzések"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Új hozzászólások"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Címkék"
+
+#: ../functions/widgets/alx-tabs.php:187
+msgid "says:"
+msgstr "mondja"
+
+#: ../inc/page-title.php:23
+msgid "Search result"
+msgstr "Keresési eredmény"
+
+#: ../inc/page-title.php:25
+msgid "Search results"
+msgstr "Keresési eredmények"
+
+#: ../inc/page-title.php:31
+msgid "Error 404."
+msgstr "404-es hiba."
+
+#: ../inc/page-title.php:31
+msgid "Page not found!"
+msgstr "Az oldal nem található!"
+
+#: ../inc/page-title.php:35
+msgid "Author:"
+msgstr "Író:"
+
+#: ../inc/page-title.php:38
+msgid "Category:"
+msgstr "Kategória:"
+
+#: ../inc/page-title.php:41
+msgid "Tagged:"
+msgstr "Címkék:"
+
+#: ../inc/page-title.php:44
+msgid "Daily Archive:"
+msgstr "Napi archívum"
+
+#: ../inc/page-title.php:47
+msgid "Monthly Archive:"
+msgstr "Havi archívum:"
+
+#: ../inc/page-title.php:50
+msgid "Yearly Archive:"
+msgstr "Éves archívum:"
+
+#: ../inc/post-nav.php:3
+msgid "Next story"
+msgstr "Következő bejegyzés"
+
+#: ../inc/post-nav.php:4
+msgid "Previous story"
+msgstr "Előző bejegyzés"
+
+#: ../inc/related-posts.php:6
+msgid "You may also like..."
+msgstr "Talán ezeket is kedveled..."
+
+#: ../inc/sharrre.php:2
+msgid "Share"
+msgstr "Megosztás"
